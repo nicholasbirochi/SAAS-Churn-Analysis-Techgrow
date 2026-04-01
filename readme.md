@@ -6,7 +6,7 @@ Estudo de cancelamento de clientes de uma empresa SaaS. O notebook reúne a expl
 
 - `visualization.ipynb`: notebook completo com EDA, preparacao de dados, treino dos modelos, avaliacao e interpretacao.
 - `requirements.txt`: bibliotecas necessarias.
-- `data/Caso_Pratico_base_churn_saas.csv`: base do desafio.
+- `data/Caso_Pratico_base_churn_saas.csv`: base do desafio. Os dados não estão no repositório; coloque o arquivo em `data/`.
 
 ## Objetivo do notebook
 
