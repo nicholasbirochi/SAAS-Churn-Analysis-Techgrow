@@ -1,6 +1,6 @@
 # Projeto - Churn SaaS (TechGrow)
 
-Este repositorio foi simplificado para conter apenas o essencial da entrega, com toda a analise dentro de um unico notebook.
+Estudo de cancelamento de clientes de uma empresa SaaS. O notebook reúne a exploração da base, a comparação de três modelos e a interpretação dos resultados para discutir possíveis ações de Produto e Customer Success.
 
 ## Estrutura final
 
@@ -60,3 +60,7 @@ pip install -r requirements.txt
 ## Observacao importante
 
 Se a variavel `inadimplencia` separar churn quase perfeitamente, isso pode indicar leakage (ou regra de negocio extremamente deterministica). Nessa situacao, valide com dados adicionais antes de colocar o modelo em producao.
+
+## Licença
+
+Código e documentação autorais sob [MIT](license). Bases de dados, materiais de curso e outros conteúdos de terceiros mantêm seus termos próprios.
